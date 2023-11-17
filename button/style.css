@@ -17,7 +17,7 @@ html, body {
     position: absolute;
     left: -146%;
     z-index: 2;
-    transition: left .4s, width .4s;
+    transition: left .1s, width .4s;
 }
 
 .bg-red {
